@@ -6,5 +6,5 @@ Thanks for the interest in our paper. Unfortunately, due to our collaborators' c
 Computation details of our non-dilated and dilated REMs in Appendix D.1, the detailed training scheme and hyperparameter settings in Appendix E.2.
 A detailed description of the repositories we used to build our model in the supplementary materials.
 
-Of course we welcome any unofficial implementation of our work! We will update any open source version of the model below:
+Of course we welcome any unofficial implementation of our work!
 
